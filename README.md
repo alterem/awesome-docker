@@ -2,7 +2,7 @@
 
 整理搜集有趣好玩的docker项目
 
-https://alterem.github.io/awesome-docker/
+[https://alterem.github.io/awesome-docker/](https://alterem.github.io/awesome-docker/)
 
 ---
 
@@ -21,6 +21,8 @@ https://alterem.github.io/awesome-docker/
 通常用于自动化任务、签到、数据抓取等。
 
 - [青龙](Scripts/README.md#青龙)
+- [CrontabUI](Scripts/README.md#CrontabUI)
+- [Healthchecks](Scripts/README.md#Healthchecks)
 
 ## ⬇️ [下载类](Downloads/README.md)
 
@@ -30,6 +32,8 @@ https://alterem.github.io/awesome-docker/
 - [Transmission](Downloads/README.md#Transmission)
 - [aria2-pro](Downloads/README.md#aria2-pro)
 - [Cloudreve](Downloads/README.md#Cloudreve)
+- [Jellyseerr](Downloads/README.md#Jellyseerr)
+- [PlexMediaServer](Downloads/README.md#PlexMediaServer)
 
 ## 🎬 [影音类](Media/README.md)
 
@@ -73,6 +77,8 @@ https://alterem.github.io/awesome-docker/
 - [BookBrowser](Ebooks/README.md#BookBrowser)
 - [Calibre-Web](Ebooks/README.md#Calibre-Web)
 - [TaleBook](Ebooks/README.md#TaleBook)
+- [Komga](Ebooks/README.md#Komga)
+- [Ubooquity](Ebooks/README.md#Ubooquity)
 
 ## ☁️ [网盘/文件管理类](Cloud_File_Management/README.md)
 
@@ -95,13 +101,67 @@ https://alterem.github.io/awesome-docker/
 
 一些与游戏相关的服务器或工具。
 
-- [Minecraft Server](Gaming/README.md#Minecraft-Server)
+- [MinecraftServer](Gaming/README.md#MinecraftServer)
 - [GameStream](Gaming/README.md#GameStream)
+- [FactorioServer](Gaming/README.md#FactorioServer)
+- [TerrariaServer](Gaming/README.md#TerrariaServer)
 
 ## ✉️ [通信类](Communication/README.md)
 
 用于搭建私有聊天、论坛或邮件服务。
 
 - [Mattermost](Communication/README.md#Mattermost)
-- [Gitea](Communication/README.md#Gitea)
 - [Discourse](Communication/README.md#Discourse)
+- [MailcowDockerized](Communication/README.md#MailcowDockerized)
+- [Flarum](Communication/README.md#Flarum)
+- [Nextcloud Talk](Communication/README.md#Nextcloud-Talk)
+
+## 🧠 [AI类](AI/README.md)
+
+用于部署和管理各种人工智能应用和模型。
+
+- [Stable Diffusion WebUI](AI/README.md#Stable-Diffusion-WebUI)
+- [ChatGPT Next Web](AI/README.md#ChatGPT-Next-Web)
+- [LocalAI](AI/README.md#LocalAI)
+- [Open-WebUI](AI/README.md#Open-WebUI)
+- [LobeChat](AI/README.md#LobeChat)
+- [Ollama](AI/README.md#Ollama)
+- [TritonInferenceServer](AI/README.md#TritonInferenceServer)
+
+## ⚙️ [开发工具类](Development_Tools/README.md)
+
+此目录用于存放各种开发相关的服务和工具。
+
+- [Gitea](Development_Tools/README.md#Gitea)
+- [MySQL](Development_Tools/README.md#MySQL)
+- [Redis](Development_Tools/README.md#Redis)
+- [PostgreSQL](Development_Tools/README.md#PostgreSQL)
+- [MongoDB](Development_Tools/README.md#MongoDB)
+- [RabbitMQ](Development_Tools/README.md#RabbitMQ)
+- [Kafka](Development_Tools/README.md#Kafka)
+- [Jenkins](Development_Tools/README.md#Jenkins)
+- [PortainerAgent](Development_Tools/README.md#PortainerAgent)
+- [NexusRepositoryManager](Development_Tools/README.md#NexusRepositoryManager)
+
+## 📊 [监控/日志类](Monitoring_Logging/README.md)
+
+此目录用于存放各种系统监控和日志管理工具。
+
+- [Prometheus](Monitoring_Logging/README.md#Prometheus)
+- [Grafana](Monitoring_Logging/README.md#Grafana)
+- [ELKStack](Monitoring_Logging/README.md#ELKStack)
+
+## 📚 [知识库/维基类](Knowledge_Base_Wiki/README.md)
+
+此目录用于存放各种知识管理和维基系统。
+
+- [Wiki.js](Knowledge_Base_Wiki/README.md#Wikijs)
+- [DokuWiki](Knowledge_Base_Wiki/README.md#DokuWiki)
+
+## 📰 [RSS类](RSS/README.md)
+
+此目录用于存放各种RSS订阅和管理工具。
+
+- [RSSHub](RSS/README.md#RSSHub)
+- [FreshRSS](RSS/README.md#FreshRSS)
+- [TinyTinyRSS](RSS/README.md#TinyTinyRSS)

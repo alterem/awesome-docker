@@ -1,3 +1,5 @@
+[返回首页](../README.md)
+
 # 📚 电子书类
 
 用于电子书管理、阅读和分享。
@@ -25,3 +27,19 @@ TaleBook 是一个简洁的私人云端电子书库，提供 Web 界面，支持
 *   **推荐镜像:** `talebook/talebook`
 *   **Docker Hub 链接:** [https://hub.docker.com/r/talebook/talebook](https://hub.docker.com/r/talebook/talebook)
 *   **GitHub 链接:** [https://github.com/talebook/talebook](https://github.com/talebook/talebook)
+
+### Komga
+
+Komga 是一个免费开源的漫画/漫画/网络漫画服务器，提供 Web 界面，用于管理和阅读您的数字漫画收藏。
+
+*   **推荐镜像:** `gotson/komga`
+*   **Docker Hub 链接:** [https://hub.docker.com/r/gotson/komga](https://hub.docker.com/r/gotson/komga)
+*   **GitHub 链接:** [https://github.com/gotson/komga](https://github.com/gotson/komga)
+
+### Ubooquity
+
+Ubooquity 是一个免费的、开源的漫画和电子书服务器，可以让你通过 Web 浏览器访问和阅读你的数字图书馆。
+
+*   **推荐镜像:** `linuxserver/ubooquity`
+*   **Docker Hub 链接:** [https://hub.docker.com/r/linuxserver/ubooquity](https://hub.docker.com/r/linuxserver/ubooquity)
+*   **GitHub 链接:** [https://github.com/linuxserver/docker-ubooquity](https://github.com/linuxserver/docker-ubooquity)

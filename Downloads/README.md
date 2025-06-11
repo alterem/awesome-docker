@@ -1,3 +1,5 @@
+[返回首页](../README.md)
+
 # ⬇️ 下载类
 
 提供文件下载、管理和分享功能。
@@ -33,3 +35,19 @@ Cloudreve 是一款支持多家云存储（如阿里云盘、OneDrive、又拍�
 *   **推荐镜像:** `cloudreve/cloudreve:latest`
 *   **Docker Hub 链接:** [https://hub.docker.com/r/cloudreve/cloudreve](https://hub.docker.com/r/cloudreve/cloudreve)
 *   **GitHub 链接:** [https://github.com/cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)
+
+### Jellyseerr
+
+Jellyseerr 是一个用于媒体请求和管理的工具，它与 Jellyfin、Plex、Sonarr、Radarr 等媒体管理工具集成，让用户可以方便地请求电影和电视节目。
+
+*   **推荐镜像:** `fallenbagel/jellyseerr`
+*   **Docker Hub 链接:** [https://hub.docker.com/r/fallenbagel/jellyseerr](https://hub.docker.com/r/fallenbagel/jellyseerr)
+*   **GitHub 链接:** [https://github.com/Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr)
+
+### PlexMediaServer
+
+Plex Media Server 是一个强大的媒体服务器，可以帮助你组织、播放和流式传输你的电影、电视节目、音乐和照片收藏到各种设备。
+
+*   **推荐镜像:** `plexinc/pms-docker`
+*   **Docker Hub 链接:** [https://hub.docker.com/r/plexinc/pms-docker](https://hub.docker.com/r/plexinc/pms-docker)
+*   **GitHub 链接:** [https://github.com/plexinc/pms-docker](https://github.com/plexinc/pms-docker)

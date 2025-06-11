@@ -1,3 +1,5 @@
+[返回首页](../README.md)
+
 # 🛠️ 实用工具类
 
 提供各种提升效率、网络管理或系统监控的实用功能。
@@ -40,18 +42,15 @@ Netdata 是一个实时的、分布式性能监控工具，可以收集各种系
 
 ### WireGuard / OpenVPN
 
-这类镜像可以帮助你快速部署一个私有的 VPN 服务器。WireGuard 以其高性能和简洁而闻名，OpenVPN 则更为成熟和广泛兼容。自建 VPN 可以用于安全访问家庭网络、突破网络限制等。
+WireGuard 和 OpenVPN 是流行的 VPN 解决方案，用于创建安全的网络连接。
 
-*   **推荐镜像 (WireGuard):** `linuxserver/wireguard`
-*   **Docker Hub 链接 (WireGuard):** [https://hub.docker.com/r/linuxserver/wireguard](https://hub.docker.com/r/linuxserver/wireguard)
-*   **GitHub 链接 (WireGuard - LinuxServer.io 官方维护):** [https://github.com/linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard)
-*   **推荐镜像 (OpenVPN):** `kylemanna/openvpn`
-*   **Docker Hub 链接 (OpenVPN):** [https://hub.docker.com/r/kylemanna/openvpn](https://hub.docker.com/r/kylemanna/openvpn)
-*   **GitHub 链接 (OpenVPN):** [https://github.com/kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn)
+*   **推荐镜像:** `linuxserver/wireguard` 或 `kylemanna/openvpn`
+*   **Docker Hub 链接:** [https://hub.docker.com/r/linuxserver/wireguard](https://hub.docker.com/r/linuxserver/wireguard) / [https://hub.docker.com/r/kylemanna/openvpn](https://hub.docker.com/r/kylemanna/openvpn)
+*   **GitHub 链接:** [https://github.com/WireGuard/wireguard](https://github.com/WireGuard/wireguard) / [https://github.com/OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)
 
 ### AdGuard Home
 
-AdGuard Home 是一个全网络范围的广告和追踪器拦截 DNS 服务器。部署后，网络中所有设备的广告和追踪器都将被拦截，无需安装客户端软件，有效提升上网体验和隐私保护。
+AdGuard Home 是一个全网络广告拦截和跟踪保护的 DNS 服务器。
 
 *   **推荐镜像:** `adguard/adguardhome`
 *   **Docker Hub 链接:** [https://hub.docker.com/r/adguard/adguardhome](https://hub.docker.com/r/adguard/adguardhome)
